@@ -1,0 +1,1 @@
+# senpaisilver.github.io
