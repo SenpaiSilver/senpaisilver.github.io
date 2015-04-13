@@ -1,0 +1,12 @@
+# Site settings
+title: SenpaiSilver
+email: 
+description: > # this means to ignore newlines until "baseurl:"
+  GitHub front page about my repositories.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: SenpaiSilver
+github_username:  SenpaiSilver
+
+# Build settings
+markdown: kramdown
